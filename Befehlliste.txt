@@ -1,0 +1,28 @@
+1. git init 
+- erstellt ein leeres repository
+2. git add 
+- fügt datein in die stagin area
+3. git commit 
+- fügt datein von der stagin area ins repository
+4. git checkout 
+- wechselt die position des headers
+5. git branch 
+- erstellt einen branch
+6. git merge 
+- fügt zwei branches zusammen
+7. git log 
+- zeigt den git verlauf an
+8. git status 
+- zeigt den status den branches an
+9. git rebase 
+- commits positon verändern
+10. git reset 
+- macht den header zurück und entfert die ausgewählten commits
+11. git revert 
+- erstellt einen neuen commit, der zurückgesetzt ist
+12. git clone 
+- kopiert das repository von einem remote-repository
+13. git push 
+- kopiert die änderungen des eigenen reps ins remote
+14. git pull 
+- kopiert die veränderungen aus dem remote rep zum eigenen und merged die
