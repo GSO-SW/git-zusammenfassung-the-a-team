@@ -9,3 +9,6 @@ git status: zeigt den status den branches an
 git rebase: commits positon verändern
 git reset: macht den header zurück und entfert die ausgewählten commits
 git revert: erstellt einen neuen commit, der zurückgesetzt ist
+git clone: kopiert das repository von einem remote-repository
+git push: kopiert die änderungen des eigenen reps ins remote
+git pull: kopiert die veränderungen aus dem remote rep zum eigenen und merged die
